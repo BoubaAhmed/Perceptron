@@ -1,0 +1,11 @@
+# Ignorer les fichiers de configuration locaux
+.myenv
+*.myenv
+
+# Ignorer les dossiers virtuels Python
+myenv/
+
+
+# Ignorer les fichiers de cache
+__pycache__/
+*.pyc
