@@ -9,3 +9,5 @@ myenv/
 # Ignorer les fichiers de cache
 __pycache__/
 *.pyc
+
+~$Presentation_Perceptron.pptx
